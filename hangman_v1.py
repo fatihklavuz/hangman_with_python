@@ -25,11 +25,6 @@ gizli_kelime=ss[r]
 #alttaki satır sonucu test etmek için yazıldı
 #print(gizli_kelime)
 
-
-
-
-
-
 girilen_karakter = ""
 
 kalan_hak = 10
