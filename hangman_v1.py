@@ -7,7 +7,7 @@ import random
 
 #kelime_listesi=["cennet","operasyon","kalantor","cehennem","civciv","karakartal","cimbombom","sarıkanarya"]
 
-kelime_listesi=open("kelime_listesi.txt",'r',encodinf='utf-8')
+kelime_listesi=open("kelime_listesi.txt",'r',encoding='utf-8')
 
 ss=[]
 
